@@ -34,7 +34,7 @@ body{
             display: inline-block;
             float: left;
             padding: 5%;
-            border-radius: 5px;
+            border-radius: 5px 0px 0px 5px;
             color: white;
 
             &-header{
@@ -68,6 +68,7 @@ body{
                     color: white !important;
                     outline: none;
                     border: 2px solid white;
+                    
                 }
             }
         }

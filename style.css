@@ -29,7 +29,7 @@ body {
       display: inline-block;
       float: left;
       padding: 5%;
-      border-radius: 5px;
+      border-radius: 5px 0px 0px 5px;
       color: white; }
       .section-card-1-header {
         font-family: "big shoulders display";
